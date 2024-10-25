@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LeaFlying</title>
+  <icon>https://blog.goldenbuds.online/icon.png</icon>
+  <subtitle>Your manufacturer of tailorable LED grow lights, digital accessories and electronics.</subtitle>
+  <link href="https://blog.goldenbuds.online/atom.xml" rel="self"/>
+  
+  <link href="https://blog.goldenbuds.online/"/>
+  <updated>2024-10-25T06:55:21.903Z</updated>
+  <id>https://blog.goldenbuds.online/</id>
+  
+  <author>
+    <name>LeaFlying</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.goldenbuds.online/hello-world.html"/>
+    <id>https://blog.goldenbuds.online/hello-world.html</id>
+    <published>2024-10-25T06:55:21.903Z</published>
+    <updated>2024-10-25T06:55:21.903Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
