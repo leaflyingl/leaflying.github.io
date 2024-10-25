@@ -6,7 +6,7 @@
   <link href="https://blog.goldenbuds.online/atom.xml" rel="self"/>
   
   <link href="https://blog.goldenbuds.online/"/>
-  <updated>2024-10-25T06:55:21.903Z</updated>
+  <updated>2024-10-11T18:00:29.301Z</updated>
   <id>https://blog.goldenbuds.online/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo blog backup and restore</title>
+    <link href="https://blog.goldenbuds.online/hexo-blog-backup-and-restore.html"/>
+    <id>https://blog.goldenbuds.online/hexo-blog-backup-and-restore.html</id>
+    <published>2024-10-25T18:46:27.860Z</published>
+    <updated>2024-10-11T18:00:29.301Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;为了防止误操作或意外情况导致的 Hexo</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -34,6 +55,114 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>backup and restore of hexo blog second</title>
+    <link href="https://blog.goldenbuds.online/backup-and-restore-of-hexo-blog-second.html"/>
+    <id>https://blog.goldenbuds.online/backup-and-restore-of-hexo-blog-second.html</id>
+    <published>2024-10-11T19:27:37.000Z</published>
+    <updated>2024-10-11T19:27:37.745Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;video-container&quot;&gt;
+[up主专用，视频内嵌代码贴在这]
+&lt;/div&gt;
+
+&lt;style&gt;
+.video-container {
+    position: relative;
+    width: 100%;
+   </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>backup and restore of hexo blog</title>
+    <link href="https://blog.goldenbuds.online/backup-and-restore-of-hexo-blog.html"/>
+    <id>https://blog.goldenbuds.online/backup-and-restore-of-hexo-blog.html</id>
+    <published>2024-10-11T18:24:45.000Z</published>
+    <updated>2024-10-11T18:26:37.044Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;为了防止误操作或意外情况导致的 Hexo</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LED grow lights and plants</title>
+    <link href="https://blog.goldenbuds.online/LED-grow-lights-and-plants.html"/>
+    <id>https://blog.goldenbuds.online/LED-grow-lights-and-plants.html</id>
+    <published>2024-10-08T09:24:37.000Z</published>
+    <updated>2024-10-12T18:55:42.733Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;video-container&quot;&gt;
+[up主专用，视频内嵌代码贴在这]
+&lt;/div&gt;
+
+&lt;style&gt;
+.video-container {
+    position: relative;
+    width: 100%;
+   </summary>
+        
+      
+    
+    
+    
+    <category term="LED Grow Lights" scheme="https://blog.goldenbuds.online/categories/LED-Grow-Lights/"/>
+    
+    
+    <category term="led grow lights" scheme="https://blog.goldenbuds.online/tags/led-grow-lights/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Applying for Netlify is not as daunting as it might seem</title>
+    <link href="https://blog.goldenbuds.online/applying-4-netlify-not-difficult-than-expected.html"/>
+    <id>https://blog.goldenbuds.online/applying-4-netlify-not-difficult-than-expected.html</id>
+    <published>2024-08-24T17:44:13.000Z</published>
+    <updated>2024-08-25T09:03:04.916Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Applying-for-Netlify-is-not-as-daunting-as-it-might-seem&quot;&gt;&lt;a href=&quot;#Applying-for-Netlify-is-not-as-daunting-as-it-might-seem&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Internet" scheme="https://blog.goldenbuds.online/categories/Internet/"/>
+    
+    
+    <category term="netlify" scheme="https://blog.goldenbuds.online/tags/netlify/"/>
     
   </entry>
   

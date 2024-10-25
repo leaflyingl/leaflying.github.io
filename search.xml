@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>hexo blog backup and restore</title>
+      <link href="/hexo-blog-backup-and-restore.html"/>
+      <url>/hexo-blog-backup-and-restore.html</url>
+      
+        <content type="html"><![CDATA[<p>为了防止误操作或意外情况导致的 Hexo 博客源文件丢失，或满足我们更换电脑进行写作的需求，所以需要定期进行备份。</p><p>需要备份的文件和目录<br>而在进行备份时，并不需要将整个博客目录全部备份，只需备份几个用户自定义的文件和配置</p><p>scaffolds 文章的模板，需要备份</p><p>source 文章和页面等源文件，需要备份</p><p>themes 主题文件与配置，需要备份</p><p>_config.yml 用户配置信息，需要备份</p><p>package.json 模块列表，需要备份</p><p>不需要备份的文件和目录<br>node_modules 安装的模块，不用备份</p><p>public 生成的文件静态网页文件，不用备份</p><p>db.json 网页数据文件，编译生成静态网页时会自动更新，不用备份</p><p>package-lock.json 依赖的模块安装记录，不用备份</p><p>此外如果主题目录下有.git 这个隐藏目录也可以删掉或者如下面所讲加入.gitignore 文件中在备份时忽略掉</p><p>备份到 GitHub<br>在 GitHub 创建一个私密仓库 Hexo，如果源码原因对外展示可以设置公开。<br>在你的站点目录下增加一个.gitignore 文件设置需要忽略的文件和目录，在其中添加不需要备份的内容：<br>Text<br>node_modules&#x2F;<br>public&#x2F;<br>.deploy_git&#x2F;<br>_config.landscape.yml<br>package-lock.json<br>db.json<br>themes&#x2F;*&#x2F;.git&#x2F;<br>.DS_Store<br>备份你的站点源文件到仓库 Hexo<br>git init<br>git add *<br>git commit -m “$(date): Hexo backup”<br>git remote add origin <a href="https://github.com/username/hexo.git">https://github.com/username/hexo.git</a><br>git push -u origin main<br>恢复你的 Hexo 站点<br>初始化一个 Hexo 站点。<br>从 GitHub 下载备份的内容到该 Hexo 站点目录下：<br>git clone <a href="https://github.com/username/hexo.git">https://github.com/username/hexo.git</a> .&#x2F;hexo<br>使用备份的 package.json 文件来恢复安装 Hexo 插件，使用 npm 进行安装：<br>npm install<br>这将读取 package.json 文件中的依赖项列表，并下载并安装所需的插件和模块。</p><p>生成静态网页并部署即可。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/hello-world.html"/>
       <url>/hello-world.html</url>
@@ -15,14 +28,145 @@
     </entry>
     
     
+    
+    <entry>
+      <title>backup and restore of hexo blog second</title>
+      <link href="/backup-and-restore-of-hexo-blog-second.html"/>
+      <url>/backup-and-restore-of-hexo-blog-second.html</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>backup and restore of hexo blog</title>
+      <link href="/backup-and-restore-of-hexo-blog.html"/>
+      <url>/backup-and-restore-of-hexo-blog.html</url>
+      
+        <content type="html"><![CDATA[<p>为了防止误操作或意外情况导致的 Hexo 博客源文件丢失，或满足我们更换电脑进行写作的需求，所以需要定期进行备份。</p><p>需要备份的文件和目录<br>而在进行备份时，并不需要将整个博客目录全部备份，只需备份几个用户自定义的文件和配置</p><p>scaffolds 文章的模板，需要备份</p><p>source 文章和页面等源文件，需要备份</p><p>themes 主题文件与配置，需要备份</p><p>_config.yml 用户配置信息，需要备份</p><p>package.json 模块列表，需要备份</p><p>不需要备份的文件和目录<br>node_modules 安装的模块，不用备份</p><p>public 生成的文件静态网页文件，不用备份</p><p>db.json 网页数据文件，编译生成静态网页时会自动更新，不用备份</p><p>package-lock.json 依赖的模块安装记录，不用备份</p><p>此外如果主题目录下有.git 这个隐藏目录也可以删掉或者如下面所讲加入.gitignore 文件中在备份时忽略掉</p><p>备份到 GitHub<br>在 GitHub 创建一个私密仓库 Hexo，如果源码原因对外展示可以设置公开。<br>在你的站点目录下增加一个.gitignore 文件设置需要忽略的文件和目录，在其中添加不需要备份的内容：<br>Text<br>node_modules&#x2F;<br>public&#x2F;<br>.deploy_git&#x2F;<br>_config.landscape.yml<br>package-lock.json<br>db.json<br>themes&#x2F;*&#x2F;.git&#x2F;<br>.DS_Store<br>备份你的站点源文件到仓库 Hexo<br>git init<br>git add *<br>git commit -m “$(date): Hexo backup”<br>git remote add origin <a href="https://github.com/username/hexo.git">https://github.com/username/hexo.git</a><br>git push -u origin main<br>恢复你的 Hexo 站点<br>初始化一个 Hexo 站点。<br>从 GitHub 下载备份的内容到该 Hexo 站点目录下：<br>git clone <a href="https://github.com/username/hexo.git">https://github.com/username/hexo.git</a> .&#x2F;hexo<br>使用备份的 package.json 文件来恢复安装 Hexo 插件，使用 npm 进行安装：<br>npm install<br>这将读取 package.json 文件中的依赖项列表，并下载并安装所需的插件和模块。</p><p>生成静态网页并部署即可。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>LED grow lights and plants</title>
+      <link href="/LED-grow-lights-and-plants.html"/>
+      <url>/LED-grow-lights-and-plants.html</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style><p><a href="https://goldenbudsled.blogspot.com/">https://goldenbudsled.blogspot.com/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> LED Grow Lights </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> led grow lights </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Applying for Netlify is not as daunting as it might seem</title>
+      <link href="/applying-4-netlify-not-difficult-than-expected.html"/>
+      <url>/applying-4-netlify-not-difficult-than-expected.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Applying-for-Netlify-is-not-as-daunting-as-it-might-seem"><a href="#Applying-for-Netlify-is-not-as-daunting-as-it-might-seem" class="headerlink" title="Applying for Netlify is not as daunting as it might seem."></a>Applying for Netlify is not as daunting as it might seem.</h1><p>Initially, I aimed to add a commenting system to my website and learned that Netlify could facilitate it. However, I had heard that applicants from China might face difficulties due to Netlify’s requirement for Stripe’s real-name verification. Nevertheless, the process proved manageable. </p><p>The key elements were having a clean IP address and opting for manual verification by sending an email to explain my learning objective. After waiting for a reply and following the provided instructions, the entire application went smoothly and took less than a day to complete.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Internet </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> netlify </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>links</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Untitled</title>
+      <link href="/google21de18330589a590.html"/>
+      <url>/google21de18330589a590.html</url>
+      
+        <content type="html"><![CDATA[google-site-verification: google21de18330589a590.html]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>message</title>
+      <link href="/message/index.html"/>
+      <url>/message/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于本站</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>recentcomments</title>
+      <link href="/recentcomments/index.html"/>
+      <url>/recentcomments/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>essay</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -34,6 +178,17 @@
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
