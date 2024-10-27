@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.goldenbuds.online/disclaimer/index.html</loc>
+    
+    <lastmod>2024-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.goldenbuds.online/privacy/index.html</loc>
     
     <lastmod>2024-10-27</lastmod>
@@ -119,14 +128,14 @@
 
   
   <url>
-    <loc>https://blog.goldenbuds.online/tags/netlify/</loc>
+    <loc>https://blog.goldenbuds.online/tags/led-grow-lights/</loc>
     <lastmod>2024-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.goldenbuds.online/tags/led-grow-lights/</loc>
+    <loc>https://blog.goldenbuds.online/tags/netlify/</loc>
     <lastmod>2024-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -135,14 +144,14 @@
 
   
   <url>
-    <loc>https://blog.goldenbuds.online/categories/Internet/</loc>
+    <loc>https://blog.goldenbuds.online/categories/LED-Grow-Lights/</loc>
     <lastmod>2024-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.goldenbuds.online/categories/LED-Grow-Lights/</loc>
+    <loc>https://blog.goldenbuds.online/categories/Internet/</loc>
     <lastmod>2024-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
