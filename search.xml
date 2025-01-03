@@ -19,19 +19,6 @@
     
     
     <entry>
-      <title>backup and restore of hexo blog second</title>
-      <link href="/backup-and-restore-of-hexo-blog-second.html"/>
-      <url>/backup-and-restore-of-hexo-blog-second.html</url>
-      
-        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>backup and restore of hexo blog</title>
       <link href="/backup-and-restore-of-hexo-blog.html"/>
       <url>/backup-and-restore-of-hexo-blog.html</url>
@@ -39,31 +26,6 @@
         <content type="html"><![CDATA[<p>为了防止误操作或意外情况导致的 Hexo 博客源文件丢失，或满足我们更换电脑进行写作的需求，所以需要定期进行备份。</p><p>需要备份的文件和目录<br>而在进行备份时，并不需要将整个博客目录全部备份，只需备份几个用户自定义的文件和配置</p><p>scaffolds 文章的模板，需要备份</p><p>source 文章和页面等源文件，需要备份</p><p>themes 主题文件与配置，需要备份</p><p>_config.yml 用户配置信息，需要备份</p><p>package.json 模块列表，需要备份</p><p>不需要备份的文件和目录<br>node_modules 安装的模块，不用备份</p><p>public 生成的文件静态网页文件，不用备份</p><p>db.json 网页数据文件，编译生成静态网页时会自动更新，不用备份</p><p>package-lock.json 依赖的模块安装记录，不用备份</p><p>此外如果主题目录下有.git 这个隐藏目录也可以删掉或者如下面所讲加入.gitignore 文件中在备份时忽略掉</p><p>备份到 GitHub<br>在 GitHub 创建一个私密仓库 Hexo，如果源码原因对外展示可以设置公开。<br>在你的站点目录下增加一个.gitignore 文件设置需要忽略的文件和目录，在其中添加不需要备份的内容：<br>Text<br>node_modules&#x2F;<br>public&#x2F;<br>.deploy_git&#x2F;<br>_config.landscape.yml<br>package-lock.json<br>db.json<br>themes&#x2F;*&#x2F;.git&#x2F;<br>.DS_Store<br>备份你的站点源文件到仓库 Hexo<br>git init<br>git add *<br>git commit -m “$(date): Hexo backup”<br>git remote add origin <a href="https://github.com/username/hexo.git">https://github.com/username/hexo.git</a><br>git push -u origin main<br>恢复你的 Hexo 站点<br>初始化一个 Hexo 站点。<br>从 GitHub 下载备份的内容到该 Hexo 站点目录下：<br>git clone <a href="https://github.com/username/hexo.git">https://github.com/username/hexo.git</a> .&#x2F;hexo<br>使用备份的 package.json 文件来恢复安装 Hexo 插件，使用 npm 进行安装：<br>npm install<br>这将读取 package.json 文件中的依赖项列表，并下载并安装所需的插件和模块。</p><p>生成静态网页并部署即可。</p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>LED grow lights and plants</title>
-      <link href="/LED-grow-lights-and-plants.html"/>
-      <url>/LED-grow-lights-and-plants.html</url>
-      
-        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style><p><a href="https://goldenbudsled.blogspot.com/">https://goldenbudsled.blogspot.com/</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> LED Grow Lights </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> led grow lights </tag>
-            
-        </tags>
       
     </entry>
     
@@ -98,33 +60,33 @@
     
     
     <entry>
-      <title>Untitled</title>
-      <link href="/google21de18330589a590.html"/>
-      <url>/google21de18330589a590.html</url>
-      
-        <content type="html"><![CDATA[google-site-verification: google21de18330589a590.html]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>disclaimer</title>
-      <link href="/disclaimer/index.html"/>
-      <url>/disclaimer/index.html</url>
-      
-        <content type="html"><![CDATA[<pre><code>  </code></pre><h2 style="text-align: center;"><b>DISCLAIMER</b></h2>  <p>Last updated: 2024-10-28</p>  <p><b>WEBSITE DISCLAIMER</b></p>  <p>The information provided by <b>LeaFlying</b> (“Company”, “we”, “our”, “us”) on <b>https://blog.goldenbuds.online</b> (the “Site”) is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.</p>  <p>UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.</p><p><b>EXTERNAL LINKS DISCLAIMER</b></p><p>The Site may contain (or you may be sent through the Site) links to other websites or content belonging to or originating from third parties or links to websites and features. Such external links are not investigated, monitored, or checked for accuracy, adequacy, validity, reliability, availability or completeness by us.</p><p>For example, the outlined <a href="https://policymaker.io/disclaimer/">Disclaimer</a> has been created using <a href="https://policymaker.io/">PolicyMaker.io</a>, a free web application for generating high-quality legal documents. PolicyMaker’s <a href="https://policymaker.io/disclaimer/">disclaimer generator</a> is an easy-to-use tool for creating an excellent sample Disclaimer template for a website, blog, eCommerce store or app.</p><p>WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION OFFERED BY THIRD-PARTY WEBSITES LINKED THROUGH THE SITE OR ANY WEBSITE OR FEATURE LINKED IN ANY BANNER OR OTHER ADVERTISING. WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.</p> <p><b>AFFILIATES DISCLAIMER</b></p><p>The Site may contain links to affiliate websites, and we may receive an affiliate commission for any purchases or actions made by you on the affiliate websites using such links.</p> <p><b>TESTIMONIALS DISCLAIMER</b></p><p>The Site may contain testimonials by users of our products and/or services. These testimonials reflect the real-life experiences and opinions of such users. However, the experiences are personal to those particular users, and may not necessarily be representative of all users of our products and/or services. We do not claim, and you should not assume that all users will have the same experiences.</p> <p>YOUR INDIVIDUAL RESULTS MAY VARY.</p> <p>The testimonials on the Site are submitted in various forms such as text, audio and/or video, and are reviewed by us before being posted. They appear on the Site verbatim as given by the users, except for the correction of grammar or typing errors. Some testimonials may have been shortened for the sake of brevity, where the full testimonial contained extraneous information not relevant to the general public.</p> <p>The views and opinions contained in the testimonials belong solely to the individual user and do not reflect our views and opinions.</p> <p><b>ERRORS AND OMISSIONS DISCLAIMER</b></p><p>While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, LeaFlying is not responsible for any errors or omissions or for the results obtained from the use of this information. All information in this site is provided “as is”, with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability, and fitness for a particular purpose.</p> <p>In no event will LeaFlying, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site or for any consequential, special or similar damages, even if advised of the possibility of such damages.</p><p><b>GUEST CONTRIBUTORS DISCLAIMER</b></p><p>This Site may include content from guest contributors and any views or opinions expressed in such posts are personal and do not represent those of LeaFlying or any of its staff or affiliates unless explicitly stated.</p> <p><b>LOGOS AND TRADEMARKS DISCLAIMER</b></p><p>All logos and trademarks of third parties referenced on https://blog.goldenbuds.online are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of LeaFlying by such owners.</p> <p><b>CONTACT US</b></p>  <p>Should you have any feedback, comments, requests for technical support or other inquiries, please contact us by email: <b>leaflying@proton.me</b>.</p><p style="margin-top: 5em; font-size: 0.7em;">This <a href="https://policymaker.io/disclaimer/">Disclaimer</a> was created for <b>https://blog.goldenbuds.online</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2024-10-28.</p>  ]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Notice</title>
       <link href="/essay/index.html"/>
       <url>/essay/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Untitled</title>
+      <link href="/google21de18330589a590.html"/>
+      <url>/google21de18330589a590.html</url>
+      
+        <content type="html"><![CDATA[google-site-verification: google21de18330589a590.html]]></content>
       
     </entry>
     
@@ -153,31 +115,20 @@
     
     
     <entry>
-      <title>recentcomments</title>
-      <link href="/recentcomments/index.html"/>
-      <url>/recentcomments/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>message</title>
       <link href="/message/index.html"/>
       <url>/message/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>recentcomments</title>
+      <link href="/recentcomments/index.html"/>
+      <url>/recentcomments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -191,6 +142,17 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>disclaimer</title>
+      <link href="/disclaimer/index.html"/>
+      <url>/disclaimer/index.html</url>
+      
+        <content type="html"><![CDATA[<pre><code>  </code></pre><h2 style="text-align: center;"><b>DISCLAIMER</b></h2>  <p>Last updated: 2024-10-28</p>  <p><b>WEBSITE DISCLAIMER</b></p>  <p>The information provided by <b>LeaFlying</b> (“Company”, “we”, “our”, “us”) on <b>https://blog.goldenbuds.online</b> (the “Site”) is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.</p>  <p>UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.</p><p><b>EXTERNAL LINKS DISCLAIMER</b></p><p>The Site may contain (or you may be sent through the Site) links to other websites or content belonging to or originating from third parties or links to websites and features. Such external links are not investigated, monitored, or checked for accuracy, adequacy, validity, reliability, availability or completeness by us.</p><p>For example, the outlined <a href="https://policymaker.io/disclaimer/">Disclaimer</a> has been created using <a href="https://policymaker.io/">PolicyMaker.io</a>, a free web application for generating high-quality legal documents. PolicyMaker’s <a href="https://policymaker.io/disclaimer/">disclaimer generator</a> is an easy-to-use tool for creating an excellent sample Disclaimer template for a website, blog, eCommerce store or app.</p><p>WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION OFFERED BY THIRD-PARTY WEBSITES LINKED THROUGH THE SITE OR ANY WEBSITE OR FEATURE LINKED IN ANY BANNER OR OTHER ADVERTISING. WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.</p> <p><b>AFFILIATES DISCLAIMER</b></p><p>The Site may contain links to affiliate websites, and we may receive an affiliate commission for any purchases or actions made by you on the affiliate websites using such links.</p> <p><b>TESTIMONIALS DISCLAIMER</b></p><p>The Site may contain testimonials by users of our products and/or services. These testimonials reflect the real-life experiences and opinions of such users. However, the experiences are personal to those particular users, and may not necessarily be representative of all users of our products and/or services. We do not claim, and you should not assume that all users will have the same experiences.</p> <p>YOUR INDIVIDUAL RESULTS MAY VARY.</p> <p>The testimonials on the Site are submitted in various forms such as text, audio and/or video, and are reviewed by us before being posted. They appear on the Site verbatim as given by the users, except for the correction of grammar or typing errors. Some testimonials may have been shortened for the sake of brevity, where the full testimonial contained extraneous information not relevant to the general public.</p> <p>The views and opinions contained in the testimonials belong solely to the individual user and do not reflect our views and opinions.</p> <p><b>ERRORS AND OMISSIONS DISCLAIMER</b></p><p>While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, LeaFlying is not responsible for any errors or omissions or for the results obtained from the use of this information. All information in this site is provided “as is”, with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability, and fitness for a particular purpose.</p> <p>In no event will LeaFlying, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site or for any consequential, special or similar damages, even if advised of the possibility of such damages.</p><p><b>GUEST CONTRIBUTORS DISCLAIMER</b></p><p>This Site may include content from guest contributors and any views or opinions expressed in such posts are personal and do not represent those of LeaFlying or any of its staff or affiliates unless explicitly stated.</p> <p><b>LOGOS AND TRADEMARKS DISCLAIMER</b></p><p>All logos and trademarks of third parties referenced on https://blog.goldenbuds.online are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of LeaFlying by such owners.</p> <p><b>CONTACT US</b></p>  <p>Should you have any feedback, comments, requests for technical support or other inquiries, please contact us by email: <b>leaflying@proton.me</b>.</p><p style="margin-top: 5em; font-size: 0.7em;">This <a href="https://policymaker.io/disclaimer/">Disclaimer</a> was created for <b>https://blog.goldenbuds.online</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2024-10-28.</p>  ]]></content>
       
     </entry>
     
