@@ -162,7 +162,7 @@ initTheme()</script><!-- global head--><script>const GLOBAL_CONFIG = {
         return
     }
     let ls = []
-    await fetch('https://waline-leaflying-282gk16lt-leaflyings-projects.vercel.app//api/comment?type=recent&count=6', {method: 'GET'}).then(async res => res.json())
+    await fetch('https://waline-leaflying.vercel.app/api/comment?type=recent&count=6', {method: 'GET'}).then(async res => res.json())
         .then(async data => {
             console.log(data)
             for (const i of data.data) {

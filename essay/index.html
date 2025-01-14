@@ -164,7 +164,7 @@ initTheme()</script><!-- global head--><script>const GLOBAL_CONFIG = {
         return
     }
     let ls = []
-    await fetch('https://waline-leaflying-282gk16lt-leaflyings-projects.vercel.app//api/comment?type=recent&count=6', {method: 'GET'}).then(async res => res.json())
+    await fetch('https://waline-leaflying.vercel.app/api/comment?type=recent&count=6', {method: 'GET'}).then(async res => res.json())
         .then(async data => {
             console.log(data)
             for (const i of data.data) {
@@ -233,7 +233,7 @@ sco.changeTimeFormat(document.querySelectorAll('.bber-info-time time'))</script>
     function initWaline(initFn) {
         const walineOptions = {
             el: '#waline-wrap',
-            serverURL: 'https://waline-leaflying-282gk16lt-leaflyings-projects.vercel.app/',
+            serverURL: 'https://waline-leaflying.vercel.app',
             pageview: true,
             dark: 'html[data-theme="dark"]',
             path: window.location.pathname,
@@ -267,7 +267,7 @@ sco.changeTimeFormat(document.querySelectorAll('.bber-info-time time'))</script>
     } else window.loadTwoComment = loadWaline
 })()
 </script><script>async function barrageWaline() {
-    const url = new URL('https://waline-leaflying-282gk16lt-leaflyings-projects.vercel.app//api/comment')
+    const url = new URL('https://waline-leaflying.vercel.app/api/comment')
     const params = {path: window.location.pathname, sortBy: 'insertedAt_asc'}
     Object.entries(params).forEach(([key, value]) => url.searchParams.append(key, value))
     await fetch(url).then(async res => {
