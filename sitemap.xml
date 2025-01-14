@@ -110,6 +110,13 @@
 
   
   <url>
+    <loc>https://blog.goldenbuds.online/tags/netlify/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.goldenbuds.online/tags/Hardware/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,24 +165,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://blog.goldenbuds.online/tags/netlify/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://blog.goldenbuds.online/categories/Hardware/</loc>
+    <loc>https://blog.goldenbuds.online/categories/Internet/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.goldenbuds.online/categories/Internet/</loc>
+    <loc>https://blog.goldenbuds.online/categories/Hardware/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
