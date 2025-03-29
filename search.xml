@@ -60,39 +60,6 @@
     
     
     <entry>
-      <title>关于本站</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Notice</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Untitled</title>
       <link href="/google21de18330589a590.html"/>
       <url>/google21de18330589a590.html</url>
@@ -115,9 +82,9 @@
     
     
     <entry>
-      <title>links</title>
-      <link href="/links/index.html"/>
-      <url>/links/index.html</url>
+      <title>moment</title>
+      <link href="/brevity/index.html"/>
+      <url>/brevity/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -126,9 +93,20 @@
     
     
     <entry>
-      <title>recentcomments</title>
-      <link href="/recentcomments/index.html"/>
-      <url>/recentcomments/index.html</url>
+      <title>Notice</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>message</title>
+      <link href="/message/index.html"/>
+      <url>/message/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -148,9 +126,31 @@
     
     
     <entry>
-      <title>message</title>
-      <link href="/message/index.html"/>
-      <url>/message/index.html</url>
+      <title>关于本站</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>links</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -162,6 +162,17 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>recentcomments</title>
+      <link href="/recentcomments/index.html"/>
+      <url>/recentcomments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
