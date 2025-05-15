@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.goldenbuds.online/CloudFlare-WARP-%E6%B2%89%E7%9D%A1%E7%9A%84KEY%E5%8F%88%E5%8F%AF%E4%BB%A5%E6%B4%BB%E8%BF%87%E6%9D%A5%E6%8B%89%E5%95%A6%EF%BC%81.html</loc>
+    
+    <lastmod>2025-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.goldenbuds.online/An-update-for-Hexo-Solitude.html</loc>
     
     <lastmod>2025-03-30</lastmod>
@@ -121,7 +130,7 @@
 
   <url>
     <loc>https://blog.goldenbuds.online/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,63 +138,63 @@
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/Hexo-Internet/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/Hardware/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/%E7%A1%AC%E4%BB%B6/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/Mecherevo/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/BlueTouth/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/%E8%93%9D%E7%89%99/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/Nahimic/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/tags/netlify/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -194,14 +203,14 @@
   
   <url>
     <loc>https://blog.goldenbuds.online/categories/Internet/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.goldenbuds.online/categories/Hardware/</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
